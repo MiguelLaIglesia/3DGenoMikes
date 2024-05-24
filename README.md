@@ -28,7 +28,7 @@ To run this project, ensure you have at least the Python version 3.10.12 install
   </tr>
   
   <tr>
-    <td rowspan="5">notebooks</td>
+    <td rowspan="5">src</td>
     <td rowspan="5">Code for python classes that must be imported in jupyter notebooks (dir:notebooks)</td>
     <td><code>Promoter.py</code></td>
   </tr>
