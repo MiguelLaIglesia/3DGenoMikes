@@ -9,7 +9,7 @@ Welcome to 3DGenoMikes! This repository showcases the code developed for my Mast
 
 ## Installation
 
-To run this project, ensure you have Python 3.10.12 installed on your system. You can download Python from [python.org](https://www.python.org/downloads/release/python-3120/).
+To run this project, ensure you have at least the Python version 3.10.12 installed on your system. You can download Python from [python.org](https://www.python.org/downloads/release/python-3120/).
 
 ## General Structure of the Repository
 <table>
@@ -19,12 +19,12 @@ To run this project, ensure you have Python 3.10.12 installed on your system. Yo
     <th>File names</th>
   </tr>
   <tr>
-    <td rowspan="2">AAIC2024</td>
-    <td rowspan="2">Code and results for the abstract proposal on Developing Topics for the Alzheimer's Association International Conference</td>
-    <td><code>ADAS-Cog_psynet_AAIC2024.Rmd</code></td>
+    <td rowspan="2">notebooks</td>
+    <td rowspan="2">Code in jupyter notebooks format for the analysis of gene distribution across A/BCompartments, TADs, and frequency of interactions.</td>
+    <td><code>Distribution_TAD_Compartments.ipynb</code></td>
   </tr>
   <tr>
-    <td><code>Data_preprocessing.py</code></td>
+    <td><code>Gene_Interactions.ipynb</code></td>
   </tr>
   
   <tr>
