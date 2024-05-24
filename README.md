@@ -43,9 +43,23 @@ To run this project, ensure you have at least the Python version 3.10.12 install
 
 </table>
 
+# Files required as input data
+
+- **Genomic TAD and A/B compartments coordinates (Bonev et al., 2017).** A bedfile with the chromosome, start, end and type (A or B) compartment. It is provided in the supplementary material Table S2 of Bonev et al. 2017
+- **Hi-C matrix of contacts.** A file .hic of 2 Gbytes with the contacts in mESCs from Bonev et al. (2017).
+- **PC-HiC list of contacts.** A file .csv with the promoter-promoter significant interactions from Schoenfelder et al. (2015).
+- **Gene clusters.** A file .bed with the coordinates of the genes that correspond to each cluster of study (not provided for confidentiality).
+
+# How it works and outputs
+Following the notebooks provided, from the first part to the last one:
+- The distribution of gene promoters across bins of TADs is calculated, so a percentage of promoters in the bins is retrieved as output.
+- The distribution of gene promoters across A/B compartments is estimated, so the percentage in each type of compartment is given as output.
+- The interaction frequency from the Hi-C data is calculated based on promoter coordinates, so a relative counts of interactions are retrieved for each cluster.
+- The significance of the PC-HiC interactions in each cluster is determined, so a value of significance (p-value and z-score) is shown.
+
 ## Contributors
 
-Lucia Muñoz Gil
+Miguel La Iglesia
 
 MSc in Computational Biology
 
