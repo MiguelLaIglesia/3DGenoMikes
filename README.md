@@ -1,4 +1,4 @@
-# MLM_TFM
+# 3DGenoMikes
 
 Welcome to 3DGenoMikes! This repository showcases the code developed for my Master's thesis "Integrating 3D Chromatin Interactions in the Transcriptional Regulation of Genes that Respond to Chromatin Stresses"
 
