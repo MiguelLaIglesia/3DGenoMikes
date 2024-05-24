@@ -1,6 +1,6 @@
-# AD-CogPro
+# MLM_TFM
 
-Welcome to AD-CogPro! This repository showcases the code developed for my Master's thesis "Cognitive modeling of the Alzheimer's disease continuum using graphical models"
+Welcome to 3DGenoMikes! This repository showcases the code developed for my Master's thesis "Integrating 3D Chromatin Interactions in the Transcriptional Regulation of Genes that Respond to Chromatin Stresses"
 
 ## Versions Used
 
