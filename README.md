@@ -57,6 +57,12 @@ Following the notebooks provided, from the first part to the last one:
 - The interaction frequency from the Hi-C data is calculated based on promoter coordinates, so a relative counts of interactions are retrieved for each cluster.
 - The significance of the PC-HiC interactions in each cluster is determined, so a value of significance (p-value and z-score) is shown.
 
+## References
+
+- Boyan Bonev, Netta Mendelson Cohen, Quentin Szabo, Lauriane Fritsch, Giorgio L Papadopoulos, Yaniv Lubling, Xiaole Xu, Xiaodan Lv, Jean-Philippe Hugnot, Amos Tanay, et al. Multiscale 3D genome rewiring during mouse neural development. In: Cell 171.3 (2017), pp. 557–572
+
+- Stefan Schoenfelder, Mayra Furlan-Magaril, Borbala Mifsud, Filipe Tavares-Cadete, Robert Sugar, Biola-Maria Javierre, Takashi Nagano, Yulia Katsman, Moorthy Sakthidevi, Steven W Wingett, et al. The pluripotent regulatory circuitry connecting promoters to their long-range interacting elements. In: Genome research 25.4 (2015), pp. 582–597.
+
 ## Contributors
 
 Miguel La Iglesia
@@ -64,3 +70,4 @@ Miguel La Iglesia
 MSc in Computational Biology
 
 Technical University of Madrid (UPM)
+
